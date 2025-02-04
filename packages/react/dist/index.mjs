@@ -30,9 +30,9 @@ var init_dist = __esm({
   }
 });
 
-// src/index.ts
+// src/index.tsx
 var require_index = __commonJS({
-  "src/index.ts"() {
+  "src/index.tsx"() {
     init_dist();
     console.log(colors);
   }
